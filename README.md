@@ -6,7 +6,7 @@
 
 **一键连通性测试**
 
-单文件 216 KB · 免安装 · 无运行库依赖 · Windows 10/11 64 位
+单文件 223 KB · 免安装 · 无运行库依赖 · Windows 10/11 64 位
 
 ### [⬇ 下载最新版](https://github.com/tyrantcwj/iTyc-PinGO/releases/latest)
 
@@ -48,7 +48,7 @@
 
 | | |
 |---|---|
-| exe 体积 | 216 KB |
+| exe 体积 | 223 KB |
 | 冷启动到窗口出现 | 0.10 s |
 | 内存 · 工作集 / 专用字节 | 18.7 MB / 4.5 MB |
 | 拖动窗口 | 约 74 FPS |
